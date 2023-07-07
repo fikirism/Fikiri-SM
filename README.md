@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Fikiri-SM
+- 👋 Hi, I’m Fikiri SM
 - 👀 I’m interested in coding and learning new ideas.
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on machine learning projects.
+- 💞️ My zindi profile is https://zindi.africa/users/fikirism
 - 📫 How to reach me https://linktr.ee/fikirism
 
 <!---
